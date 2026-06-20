@@ -15,8 +15,7 @@ A modern and responsive unit conversion web application built with Python (Flask
 - Styling: Custom CSS with a modern dark/clean theme.
 
 ## 📸 Preview
-!Project Screenshot
-(Upload your app screenshot as 'screenshot.png' to see it here!)*
+![Preview Converter](Converter.png)
 
 ## 🚀 How to Run Locally
 1. Clone this repository:
